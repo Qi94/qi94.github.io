@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog List on Qi</title>
+    <link>https://blog.ekkochu.com/blog/</link>
+    <description>Recent content in Blog List on Qi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Thu, 09 Apr 2020 17:31:21 +1000</lastBuildDate>
+    
+	<atom:link href="https://blog.ekkochu.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COVID-19</title>
+      <link>https://blog.ekkochu.com/blog/2020-04/covid-19/</link>
+      <pubDate>Thu, 09 Apr 2020 18:00:00 +1000</pubDate>
+      
+      <guid>https://blog.ekkochu.com/blog/2020-04/covid-19/</guid>
+      <description>今天是2020年4月9日，星期四。</description>
+    </item>
+    
+  </channel>
+</rss>

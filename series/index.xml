@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Qi</title>
+    <link>https://blog.ekkochu.com/series/</link>
+    <description>Recent content in Series on Qi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Mon, 13 Apr 2020 16:25:00 +1000</lastBuildDate>
+    
+	<atom:link href="https://blog.ekkochu.com/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Share</title>
+      <link>https://blog.ekkochu.com/series/share/</link>
+      <pubDate>Mon, 13 Apr 2020 16:25:00 +1000</pubDate>
+      
+      <guid>https://blog.ekkochu.com/series/share/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recall</title>
+      <link>https://blog.ekkochu.com/series/recall/</link>
+      <pubDate>Thu, 09 Apr 2020 18:00:00 +1000</pubDate>
+      
+      <guid>https://blog.ekkochu.com/series/recall/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
