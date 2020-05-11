@@ -6,10 +6,19 @@
     <description>Recent content on Qi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Sat, 18 Apr 2020 22:00:18 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 18:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://blog.ekkochu.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Run with the Wind</title>
+      <link>https://blog.ekkochu.com/blog/2020-05/run-with-the-wind/</link>
+      <pubDate>Mon, 11 May 2020 18:00:00 +1000</pubDate>
+      
+      <guid>https://blog.ekkochu.com/blog/2020-05/run-with-the-wind/</guid>
+      <description>强风飘拂</description>
+    </item>
     
     <item>
       <title>Repo</title>
