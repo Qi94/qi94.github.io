@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Qi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Wed, 13 May 2020 09:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 18:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://blog.ekkochu.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Blog</title>
       <link>https://blog.ekkochu.com/tags/blog/</link>
-      <pubDate>Wed, 13 May 2020 09:00:00 +1000</pubDate>
+      <pubDate>Mon, 25 May 2020 18:00:00 +1000</pubDate>
       
       <guid>https://blog.ekkochu.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Runner</title>
+      <link>https://blog.ekkochu.com/tags/runner/</link>
+      <pubDate>Mon, 25 May 2020 18:00:00 +1000</pubDate>
+      
+      <guid>https://blog.ekkochu.com/tags/runner/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Wed, 13 May 2020 09:00:00 +1000</pubDate>
       
       <guid>https://blog.ekkochu.com/tags/%E8%A7%82%E5%90%8E%E6%84%9F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Runner</title>
-      <link>https://blog.ekkochu.com/tags/runner/</link>
-      <pubDate>Mon, 11 May 2020 18:00:00 +1000</pubDate>
-      
-      <guid>https://blog.ekkochu.com/tags/runner/</guid>
       <description></description>
     </item>
     
