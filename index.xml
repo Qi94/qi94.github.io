@@ -6,10 +6,19 @@
     <description>Recent content on Qi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Mon, 25 May 2020 18:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 18:00:00 +1000</lastBuildDate>
     
 	<atom:link href="https://blog.ekkochu.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>谈运动</title>
+      <link>https://blog.ekkochu.com/blog/2020-06/%E8%B0%88%E8%BF%90%E5%8A%A8/</link>
+      <pubDate>Wed, 03 Jun 2020 18:00:00 +1000</pubDate>
+      
+      <guid>https://blog.ekkochu.com/blog/2020-06/%E8%B0%88%E8%BF%90%E5%8A%A8/</guid>
+      <description>2020年六月三号，健身房解禁后开张的第一天。</description>
+    </item>
     
     <item>
       <title>跑步</title>
